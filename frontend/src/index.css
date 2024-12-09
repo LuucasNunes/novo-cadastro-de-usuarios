@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Noto Sans", serif;
+}
+
+/* Animação do background */
+@keyframes backgroundColorChange {
+  0% { background-color: #9ad3de; } /* Azul claro */
+  50% { background-color: #f4d03f; } /* Amarelo suave */
+  100% { background-color: #9ad3de; }
+}
+
+body {
+  min-height: 100vh;
+  width: 100vw;
+  animation: backgroundColorChange 10s infinite alternate;
+}

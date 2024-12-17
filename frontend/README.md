@@ -31,11 +31,11 @@ Este projeto foi criado para aprimorar minhas hardskills, tem como objetivo gere
 ---
 
 ## **📦 Como Instalar e Rodar o Projeto**
-**1°** Clone o projeto para sua IDE - git clone https://github.com/seu-usuario/in-cadastro-de-usuarios.git
-**2°** Crie um arquivo '.env' na pasta backend e cole - DATABASE_URL="postgresql://postgres:06032005@localhost:5432/newcrudusers?schema=public"
-**3°** Abra seu terminal, navegue até backend e instale as dependências - cd backend -> npm i 
-**4°** Retorne e vá até a pasta do frontend e instale as dependências também - cd ../frontend -> npm i 
-**5°** Inicie o servidor no Backend - cd ../backend -> node server.js 
-**6°** Inicie a página frontend - cd ../frontend -> npm run dev
+- **1°** Clone o projeto para sua IDE - git clone https://github.com/seu-usuario/in-cadastro-de-usuarios.git
+- **2°** Crie um arquivo '.env' na pasta backend e cole - DATABASE_URL="postgresql://postgres:06032005@localhost:5432/newcrudusers?schema=public"
+- **3°** Abra seu terminal, navegue até backend e instale as dependências - cd backend -> npm i 
+- **4°** Retorne e vá até a pasta do frontend e instale as dependências também - cd ../frontend -> npm i 
+- **5°** Inicie o servidor no Backend - cd ../backend -> node server.js 
+- **6°** Inicie a página frontend - cd ../frontend -> npm run dev
 
 
